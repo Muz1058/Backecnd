@@ -1,0 +1,21 @@
+{
+  "name": "02datamodeling",
+  "version": "1.0.0",
+  "description": "Ecommerce and Hospital management Data Modeling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Data",
+    "MOdelin",
+    "node",
+    "mongoose"
+  ],
+  "author": "Muzi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.16.5"
+  }
+}
